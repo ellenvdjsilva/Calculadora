@@ -38,7 +38,7 @@
             // 
             // somar
             // 
-            somar.Location = new Point(496, 240);
+            somar.Location = new Point(377, 242);
             somar.Name = "somar";
             somar.Size = new Size(112, 34);
             somar.TabIndex = 0;
