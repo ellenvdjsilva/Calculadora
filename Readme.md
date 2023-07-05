@@ -1,4 +1,5 @@
 # Calculadora em Grupo
 
-
-Ellen Silva
+Ellen Silva,
+Luana Nery,
+Yuri Rodrigues.
