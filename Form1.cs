@@ -6,5 +6,10 @@ namespace Calculadora
         {
             InitializeComponent();
         }
+
+        private void somar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
