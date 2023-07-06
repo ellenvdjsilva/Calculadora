@@ -9,7 +9,15 @@ namespace Calculadora
 
         private void somar_Click(object sender, EventArgs e)
         {
+            int priNum, segNum, resultado;
 
+            priNum = Int32.Parse(primeiroNumero.Text);
+
+            segNum = Int32.Parse(segundoNumero.Text);
+
+            resultado = priNum + segNum;
+
+            somado.Text = resultado.ToString();
         }
     }
 }
